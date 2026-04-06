@@ -1,7 +1,7 @@
 # Registration Form
 
 ## Overview
-This registration form provides a simple and elegant interface for users to create a new account.
+This registration form provides a simplistic interface for users to create a new account.
 
 ## Form Fields
 
