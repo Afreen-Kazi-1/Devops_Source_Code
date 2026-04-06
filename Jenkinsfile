@@ -5,7 +5,7 @@ pipeline {
 
         stage('Build') {
             steps {
-                echo 'Running tests...'
+                echo 'Running tests v2...'
                 echo 'All tests passed!'
             }
         }
